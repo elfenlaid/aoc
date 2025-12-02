@@ -4,3 +4,6 @@
 .LSOverride
 
 **/input*.txt
+**/test_input*.txt
+
+**/target/*
